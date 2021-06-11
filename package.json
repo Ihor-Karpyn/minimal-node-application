@@ -17,6 +17,17 @@
     "nodemon": "^1.18.9"
   },
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "apollo-server": "^2.25.0",
+    "apollo-server-express": "^2.25.0",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "graphql-resolvers": "^0.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.6.0",
+    "sequelize-v5": "^1.0.0",
+    "uuid": "^8.3.2"
   }
 }
